@@ -50,19 +50,19 @@
     <Property Name="TransactionID" Type="int" Nullable="false" />
     <Property Name="UserID" Type="int" Nullable="false" />
     <Property Name="TransactionDate" Type="date" Nullable="false" />
-    <Property Name="Status" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Status" Type="varchar" MaxLength="50" Nullable="false" />
   </EntityType>
   <EntityType Name="Users">
     <Key>
       <PropertyRef Name="UserID" />
     </Key>
-    <Property Name="UserID" Type="int" Nullable="false" />
-    <Property Name="Username" Type="nchar" MaxLength="100" Nullable="false" />
-    <Property Name="UserEmail" Type="nchar" MaxLength="150" Nullable="false" />
+    <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="UserEmail" Type="varchar" MaxLength="150" Nullable="false" />
     <Property Name="UserDOB" Type="date" Nullable="false" />
-    <Property Name="UserGender" Type="nchar" MaxLength="10" Nullable="false" />
-    <Property Name="UserRole" Type="nchar" MaxLength="10" Nullable="false" />
-    <Property Name="UserPassword" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="UserGender" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UserRole" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="UserPassword" Type="varchar" MaxLength="100" Nullable="false" />
   </EntityType>
   <Association Name="FK_Carts_Makeups">
     <End Role="Makeups" Type="Self.Makeups" Multiplicity="1" />
