@@ -26,6 +26,20 @@
         <asp:TextBox ID="TextBoxRole" runat="server"></asp:TextBox>
     </div>
     <div>
-        <asp:Button ID="Button1" runat="server" Text="Update" />
+        <asp:Label ID="LabelError" runat="server" Text=""></asp:Label>
+    </div>
+    <div>
+        <asp:Button ID="ButtonUpdate" runat="server" Text="Update" OnClick="ButtonUpdate_Click" />
+    </div>
+    <div>
+        <asp:Label ID="LabelOldPassword" runat="server" Text="Old Password"></asp:Label>
+        <asp:TextBox ID="TextBoxOldPassword" runat="server"></asp:TextBox>
+    </div>
+    <div>
+        <asp:Label ID="LabelNewPassword" runat="server" Text="New Password"></asp:Label>
+        <asp:TextBox ID="TextBoxNewPassword" runat="server"></asp:TextBox>
+    </div>
+    <div>
+        <asp:Button ID="ButtonUpdatePassword" runat="server" Text="Update Password" OnClick="ButtonUpdatePassword_Click" />
     </div>
 </asp:Content>

@@ -74,5 +74,24 @@ namespace PSDFinalProject.Repositories
             var u = (from x in db.Users where x.UserRole == "customer" select x).ToList();
             return u;
         }
+
+        public static string updateUserProfile(User user, string username, string email, string gender, DateTime dob)
+        {
+            user.Username = username;
+            user.UserEmail = email;
+            user.UserGender = gender;
+            user.UserDOB = dob;
+            db.SaveChanges();
+            return "id gua" + user.UserID + " dan nama gua " + username;
+
+            return "user profile has been updated successfully!";
+        }
+
+        public static string updateUserPassword(User user, string password)
+        {
+            user.UserPassword = password;
+            db.SaveChanges();
+            return "password has been changed !";
+        }
     }
 }

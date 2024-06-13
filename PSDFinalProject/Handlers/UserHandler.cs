@@ -33,6 +33,17 @@ namespace PSDFinalProject.Handlers
             return "user not found!";
         }
 
+        public static string updateUserProfile(int id, string username, string email,string gender, DateTime dob)
+        {
+            User user = UserRepository.getUserById(id);
+
+            if (user != null)
+            {
+                return UserRepository.updateUserProfile(user, username, email, gender, dob);
+            }
+            return "user not found!";
+        }
+
         public static string checkRoleByUsername(string username)
         {
             User user = UserRepository.getUserByUsername(username);
@@ -121,6 +132,40 @@ namespace PSDFinalProject.Handlers
                 return user.UserDOB.ToString("dd-MM-yyyy");
             }
             return "";
+        }
+
+        public static string getUsernameByID(string id)
+        {
+            int idint = Convert.ToInt32(id);
+            User user = UserRepository.getUserById(idint);
+            if (user != null)
+            {
+                return user.Username;
+            }
+            return "";
+        }
+
+        public static string changeUserPassword(int id, string password)
+        {
+            User user = UserRepository.getUserById(id);
+            if (user != null)
+            {
+                return UserRepository.updateUserPassword(user, password);
+            }
+            return "user not found!";
+        }
+
+        public static bool checkOldPassword(int id, string password)
+        {
+            User user = UserRepository.getUserById(id);
+            if (user != null)
+            {
+                if(user.UserPassword == password)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
     }
 }

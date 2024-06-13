@@ -99,6 +99,43 @@ namespace PSDFinalProject.Controllers
             return UserHandler.loginUser(username, password);
         }
 
+        public static string validateUpdateProfile(int id, string username, string email, string gender, DateTime dob)
+        {
+            if (username.Length < 5 || username.Length > 15 || username == null || username == "")
+            {
+                return "username Length must be between 5 and 15, must be unique, cannot be empty";
+
+            }
+            else if (email.EndsWith(".com") == false || email == null || email == "")
+            {
+                return "email must end with .com and cannot be empty";
+
+            }
+            else if (gender == "")
+            {
+                return "gender must be chosen and cannot be empty";
+
+            }
+            else if (dob == DateTime.MinValue)
+            {
+                return "DOB cannot be empty";
+
+            }
+
+            return UserHandler.updateUserProfile(id,  username, email, gender, dob);
+        }
+
+        public static string validateUpdatePassword(int id, string oldPassword, string newPassword)
+        {
+            bool isValid = UserHandler.checkOldPassword(id, oldPassword);
+            if(isValid == false)
+            {
+                return "old password is wrong!";
+            }
+
+            return UserHandler.changeUserPassword(id, newPassword);
+        }
+
         public static User getUserByUsername(string username)
         {
             return UserHandler.getUserByUsername(username);
@@ -132,6 +169,11 @@ namespace PSDFinalProject.Controllers
         public static List<User> showAllUsers()
         {
             return UserHandler.getAllUsers();
+        }
+
+        public static string showUsernameByID(string id)
+        {
+            return UserHandler.getUsernameByID(id);
         }
     }
 }

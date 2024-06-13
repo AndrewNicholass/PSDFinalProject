@@ -6,7 +6,43 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/4CB6B62E81E06A12823940336D2938B1_ER_4_PATTERN_SOFTWARE_DESIGN_LAB_PROJECT_PSDFINALPROJECT_PSDFINALPROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|e:\\data c\\documents\\binus file\\binus file\\semester\\semester 4\\pattern software design\\lab\\project\\psdfinalproject\\psdfinalproject\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -14,28 +50,12 @@
       "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\historypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -48,10 +68,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\transactionreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\transactionreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|solutionrelative:psdfinalproject\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28DD7C9B-885C-4E60-8855-826BBC350B55}|PSDFinalProject\\PSDFinalProject.csproj|E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\psdfinalproject\\views\\orderqueue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -69,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,78 +93,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserFactory.cs",
-              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Factories\\UserFactory.cs",
-              "RelativeDocumentMoniker": "PSDFinalProject\\Factories\\UserFactory.cs",
-              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Factories\\UserFactory.cs",
-              "RelativeToolTip": "PSDFinalProject\\Factories\\UserFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T14:20:05.594Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginPage.aspx.designer.cs",
-              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx.designer.cs",
-              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\LoginPage.aspx.designer.cs",
-              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx.designer.cs",
-              "RelativeToolTip": "PSDFinalProject\\Views\\LoginPage.aspx.designer.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PSDFinalProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAuwIEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:00:23.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginPage.aspx.cs",
-              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx.cs",
-              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\LoginPage.aspx.cs",
-              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx.cs",
-              "RelativeToolTip": "PSDFinalProject\\Views\\LoginPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T04:55:31.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/4CB6B62E81E06A12823940336D2938B1_ER_4_PATTERN_SOFTWARE_DESIGN_LAB_PROJECT_PSDFINALPROJECT_PSDFINALPROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-13T04:50:03.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterPage.aspx",
-              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\RegisterPage.aspx",
-              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\RegisterPage.aspx",
-              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\RegisterPage.aspx",
-              "RelativeToolTip": "PSDFinalProject\\Views\\RegisterPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-13T01:30:13.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MasterPage.Master.cs",
-              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\MasterPage.Master.cs",
-              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\MasterPage.Master.cs",
-              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\MasterPage.Master.cs",
-              "RelativeToolTip": "PSDFinalProject\\Views\\MasterPage.Master.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T01:30:39.126Z"
+              "WhenOpened": "2024-06-13T17:51:47.1Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Handlers\\UserHandler.cs",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Handlers\\UserHandler.cs",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Handlers\\UserHandler.cs",
+              "RelativeToolTip": "PSDFinalProject\\Handlers\\UserHandler.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAcwJsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:55:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LoginPage.aspx",
               "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx",
               "RelativeDocumentMoniker": "PSDFinalProject\\Views\\LoginPage.aspx",
@@ -160,19 +129,125 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\LoginPage.aspx.cs",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx.cs",
+              "RelativeToolTip": "PSDFinalProject\\Views\\LoginPage.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:55:31.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/4CB6B62E81E06A12823940336D2938B1_ER_4_PATTERN_SOFTWARE_DESIGN_LAB_PROJECT_PSDFINALPROJECT_PSDFINALPROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T18:29:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfilePage.aspx.cs",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\ProfilePage.aspx.cs",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\ProfilePage.aspx.cs",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\ProfilePage.aspx.cs",
+              "RelativeToolTip": "PSDFinalProject\\Views\\ProfilePage.aspx.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswG8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:38:17.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "PSDFinalProject\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAMwF0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:58:06.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfilePage.aspx",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\ProfilePage.aspx",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\ProfilePage.aspx",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\ProfilePage.aspx",
+              "RelativeToolTip": "PSDFinalProject\\Views\\ProfilePage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T01:27:11.216Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "MasterPage.Master",
               "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\MasterPage.Master",
               "RelativeDocumentMoniker": "PSDFinalProject\\Views\\MasterPage.Master",
               "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\MasterPage.Master",
               "RelativeToolTip": "PSDFinalProject\\Views\\MasterPage.Master",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-13T01:19:54.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "MasterPage.Master.cs",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\MasterPage.Master.cs",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\MasterPage.Master.cs",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\MasterPage.Master.cs",
+              "RelativeToolTip": "PSDFinalProject\\Views\\MasterPage.Master.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:30:39.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\RegisterPage.aspx",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\RegisterPage.aspx",
+              "RelativeToolTip": "PSDFinalProject\\Views\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T01:30:13.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPage.aspx.designer.cs",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\LoginPage.aspx.designer.cs",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\LoginPage.aspx.designer.cs",
+              "RelativeToolTip": "PSDFinalProject\\Views\\LoginPage.aspx.designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:00:23.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Factories\\UserFactory.cs",
+              "RelativeDocumentMoniker": "PSDFinalProject\\Factories\\UserFactory.cs",
+              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Factories\\UserFactory.cs",
+              "RelativeToolTip": "PSDFinalProject\\Factories\\UserFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:20:05.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomePage.aspx",
               "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\HomePage.aspx",
               "RelativeDocumentMoniker": "PSDFinalProject\\Views\\HomePage.aspx",
@@ -184,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "HistoryPage.aspx",
               "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\HistoryPage.aspx",
               "RelativeDocumentMoniker": "PSDFinalProject\\Views\\HistoryPage.aspx",
@@ -196,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "OrderMakeup.aspx",
               "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\OrderMakeup.aspx",
               "RelativeDocumentMoniker": "PSDFinalProject\\Views\\OrderMakeup.aspx",
@@ -208,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "TransactionReport.aspx",
               "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\TransactionReport.aspx",
               "RelativeDocumentMoniker": "PSDFinalProject\\Views\\TransactionReport.aspx",
@@ -220,19 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProfilePage.aspx",
-              "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\ProfilePage.aspx",
-              "RelativeDocumentMoniker": "PSDFinalProject\\Views\\ProfilePage.aspx",
-              "ToolTip": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\ProfilePage.aspx",
-              "RelativeToolTip": "PSDFinalProject\\Views\\ProfilePage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-13T01:27:11.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "OrderQueue.aspx",
               "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\OrderQueue.aspx",
               "RelativeDocumentMoniker": "PSDFinalProject\\Views\\OrderQueue.aspx",
@@ -244,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ManageMakeup.aspx",
               "DocumentMoniker": "E:\\DATA C\\Documents\\Binus File\\Binus File\\Semester\\Semester 4\\Pattern Software Design\\LAB\\Project\\PSDFinalProject\\PSDFinalProject\\Views\\ManageMakeup.aspx",
               "RelativeDocumentMoniker": "PSDFinalProject\\Views\\ManageMakeup.aspx",
