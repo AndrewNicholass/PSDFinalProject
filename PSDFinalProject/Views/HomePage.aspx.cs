@@ -1,4 +1,5 @@
-﻿using PSDFinalProject.Models;
+﻿using PSDFinalProject.Controllers;
+using PSDFinalProject.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,9 +11,10 @@ namespace PSDFinalProject.Views
 {
     public partial class HomePage : System.Web.UI.Page
     {
-        private Database1Entities1 db = new Database1Entities1 ();
         protected void Page_Load(object sender, EventArgs e)
         {
+            ListUserContainer.Visible = false;
+
             if (Session["user"] == null && Request.Cookies["user_cookie"] == null)
             {
                 Response.Redirect("LoginPage.aspx");
@@ -22,16 +24,34 @@ namespace PSDFinalProject.Views
                 User user;
                 if (Session["user"] == null)
                 {
-                    var id = Request.Cookies["user_cookie"].Value;
-                    user = (from x in db.Users where x.UserID == Convert.ToInt32(id) select x).FirstOrDefault();
+                    int id = Convert.ToInt32(Request.Cookies["user_cookie"].Value);
+                    user = UserController.getUserByID(id);
                     Session["user"] = user;
                 }
                 else
                 {
                     user = (User) Session["user"];
                 }
+
+                LabelName.Text = user.Username;
+                LabelRole.Text = user.UserRole;
+
+                if (user.Username.Equals("admin"))
+                {
+                    ListUserContainer.Visible = true;
+                    List<User> u = UserController.showAllUsers();
+                    foreach(var x in u)
+                    {
+                        ListBoxUser.Items.Add(x.Username);
+                    }
+                }
             }
 
+
+        }
+
+        protected void ListBoxUser_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
     }

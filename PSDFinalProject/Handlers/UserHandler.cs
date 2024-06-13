@@ -22,5 +22,105 @@ namespace PSDFinalProject.Handlers
 
             return UserRepository.addNewUser(newUser); 
         }
+
+        public static string loginUser(string username, string password)
+        {
+            User user = UserRepository.getUserByUsernameAndPassword(username, password);
+            if(user != null)
+            {
+                return "login success!";
+            }
+            return "user not found!";
+        }
+
+        public static string checkRoleByUsername(string username)
+        {
+            User user = UserRepository.getUserByUsername(username);
+            if (user != null)
+            {
+                return user.UserRole;
+            }
+            return "";
+        }
+
+        public static User getUserByUsername(string username)
+        {
+            User user = UserRepository.getUserByUsername(username);
+            if(user != null)
+            {
+                return user;
+            }
+            return null;
+        }
+
+        public static User getUserByID(int id)
+        {
+            User user = UserRepository.getUserById(id);
+            if( user != null)
+            {
+                return user;
+            }
+            return null;
+        }
+
+        public static string checkIdByUsername(string username)
+        {
+            User user = UserRepository.getUserByUsername(username);
+            if (user != null)
+            {
+                return user.UserID.ToString();
+            }
+            return "";
+        }
+
+        public static string checkRoleById(int id)
+        {
+            User user = UserRepository.getUserById(id);
+            if (user != null)
+            {
+                return user.UserRole;
+            }
+            return "";
+        }
+
+        public static List<object> getAllCustomers()
+        {
+            return UserRepository.getAllUsers();
+        }
+
+        public static List<User> getAllUsers()
+        {
+            return UserRepository.getAllUser();
+        }
+
+        public static string getUserEmail(int id)
+        {
+            User user = UserRepository.getUserById(id);
+            if (user != null)
+            {
+                return user.UserEmail;
+            }
+            return "";
+        }
+
+        public static string getUserGender(int id)
+        {
+            User user = UserRepository.getUserById(id);
+            if (user != null)
+            {
+                return user.UserGender;
+            }
+            return "";
+        }
+
+        public static string getUserDOB(int id)
+        {
+            User user = UserRepository.getUserById(id);
+            if (user != null)
+            {
+                return user.UserDOB.ToString("dd-MM-yyyy");
+            }
+            return "";
+        }
     }
 }

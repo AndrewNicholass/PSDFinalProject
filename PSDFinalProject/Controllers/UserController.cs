@@ -1,4 +1,5 @@
 ﻿using PSDFinalProject.Handlers;
+using PSDFinalProject.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -82,6 +83,55 @@ namespace PSDFinalProject.Controllers
             {
                 return false;
             }
+        }
+
+        public static string validateLogin(string username, string password)
+        {
+            if (username == "")
+            {
+                return "Username is required!";
+            }
+            if (password == "")
+            {
+                return "Password is required!";
+            }
+
+            return UserHandler.loginUser(username, password);
+        }
+
+        public static User getUserByUsername(string username)
+        {
+            return UserHandler.getUserByUsername(username);
+        }
+
+        public static User getUserByID(int id)
+        {
+            return UserHandler.getUserByID(id);
+        }
+
+        public static string validateRoleByUsername(string username)
+        {
+            return UserHandler.checkRoleByUsername(username);
+        }
+
+        public static string validateIdByUsername(string username)
+        {
+            return UserHandler.checkIdByUsername(username);
+        }
+
+        public static string validateRoleById(int id)
+        {
+            return UserHandler.checkRoleById(id);
+        }
+
+        public static List<object> showAllCustomers()
+        {
+            return UserHandler.getAllCustomers();
+        }
+
+        public static List<User> showAllUsers()
+        {
+            return UserHandler.getAllUsers();
         }
     }
 }

@@ -26,10 +26,15 @@ namespace PSDFinalProject.Repositories
             return db.Users.Where(u => u.Username == username).FirstOrDefault();
         }
 
-        public static User getUserById(string id)
+        public static User getUserById(int id)
         {
-            int userID = Convert.ToInt32(id);
+            int userID = id;
             return db.Users.Where(u => u.UserID == userID).FirstOrDefault();
+        }
+
+        public static User getUserByUsernameAndPassword(string username, string password)
+        {
+            return db.Users.Where(u => u.Username == username && u.UserPassword == password).FirstOrDefault();
         }
 
         public static List<object> getAllUsers()
@@ -62,6 +67,12 @@ namespace PSDFinalProject.Repositories
 
             return customerList;
 
+        }
+
+        public static List<User> getAllUser()
+        {
+            var u = (from x in db.Users where x.UserRole == "customer" select x).ToList();
+            return u;
         }
     }
 }
