@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="PSDFinalProject.Views.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="nav">
+            <asp:Button ID="ButtonOrderMakeup" runat="server" Text="Order Makeup" OnClick="ButtonOrderMakeup_Click" />
+            <asp:Button ID="ButtonHistory" runat="server" Text="History" OnClick="ButtonHistory_Click" />
+            <asp:Button ID="ButtonProfile" runat="server" Text="Profile" OnClick="ButtonProfile_Click" />
+            <asp:Button ID="ButtonHome" runat="server" Text="Home" OnClick="ButtonHome_Click" />
+            <asp:Button ID="ButtonManageMakeup" runat="server" Text="Manage Makeup" OnClick="ButtonManageMakeup_Click" />
+            <asp:Button ID="ButtonOrderQueue" runat="server" Text="Order Queue" OnClick="ButtonOrderQueue_Click" />
+            <asp:Button ID="ButtonTransactionReport" runat="server" Text="Report" OnClick="ButtonTransactionReport_Click" />
+            <asp:Button ID="ButtonLogout" runat="server" Text="Logout" OnClick="ButtonLogout_Click" />
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="contentbody" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
