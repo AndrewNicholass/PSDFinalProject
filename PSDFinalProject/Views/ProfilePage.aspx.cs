@@ -1,4 +1,5 @@
-﻿using PSDFinalProject.Models;
+﻿using PSDFinalProject.Controllers;
+using PSDFinalProject.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,6 @@ namespace PSDFinalProject.Views
 {
     public partial class ProfilePage : System.Web.UI.Page
     {
-        private Database1Entities1 db = new Database1Entities1 ();
         protected void Page_Load(object sender, EventArgs e)
         {
             if (Session["user"] == null && Request.Cookies["user_cookie"] == null)
@@ -22,8 +22,8 @@ namespace PSDFinalProject.Views
                 User user;
                 if (Session["user"] == null)
                 {
-                    var id = Request.Cookies["user_cookie"].Value;
-                    user = (from x in db.Users where x.UserID == Convert.ToInt32(id) select x).FirstOrDefault();
+                    int id = Convert.ToInt32(Request.Cookies["user_cookie"].Value);
+                    user = UserController.getUserByID(id);
                     Session["user"] = user;
                 }
                 else
